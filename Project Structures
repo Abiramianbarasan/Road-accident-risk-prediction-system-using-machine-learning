@@ -1,1 +1,19 @@
+├── dataset/
+│   ├── accident_data.csv
+│   ├── cleaned_accident_data.csv
+│   ├── balanced_dataset.csv
+│
+├── models/
+│   ├── random_forest_model.pkl
+│   ├── decision_tree_model.pkl
+│   ├── logistic_regression_model.pkl
+│
+├── web_app/
+│   ├── static/
+│   ├── templates/
+│   ├── app.py  # Flask backend
+│
+├── README.md
+├── requirements.txt
+└── Firstreviewreport.pdf
 
